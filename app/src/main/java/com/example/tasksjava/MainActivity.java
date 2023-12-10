@@ -46,7 +46,6 @@ public class MainActivity extends AppCompatActivity {
         anim = AnimationUtils.loadAnimation(this, R.anim.animation);
         buttonTo = findViewById(R.id.buttonTo);
         dbHelperTask = new DbHelperTask(MainActivity.this, Const.NAME_COLUMN,null ,1);
-        buttonSeting = findViewById(R.id.buttonSetting);
 
 
 

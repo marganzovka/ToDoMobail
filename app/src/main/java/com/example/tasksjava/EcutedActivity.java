@@ -33,7 +33,6 @@ public class EcutedActivity extends AppCompatActivity {
 
         listView = findViewById(R.id.listView);
         buttonTo = findViewById(R.id.buttonTo);
-        buttonSeting = findViewById(R.id.buttonSetting);
 
 
 
